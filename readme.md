@@ -9,5 +9,5 @@ $\prod_{i=1}^{n} x_i$
 
 $A \in R^{n \times m}$ and $B \in R^{q \times n}$ then $A B$ represents $C \in R^{m \times q}$
 
-
-
+$A A^{-1} = I$ \
+$P^{-1} A P = A'$
