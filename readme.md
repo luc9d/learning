@@ -1,1 +1,4 @@
-The derivative is $$\frac{d}{dx}x^2 = 2x$$
+\documentclass{article}
+\begin{document}
+Hello, LaTeX in VS Code!
+\end{document}
