@@ -1,3 +1,1 @@
-$$
-\frac{d}{dx}x^2 = 2x
-$$
+The derivative is $$ \frac{d}{dx}x^2 = 2x $$
